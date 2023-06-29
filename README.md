@@ -111,9 +111,15 @@ To run tests, run the following command:
 
 👤 **Author1**
  *[STEPHEN KATULI]*
- 
+
 - GitHub: [@githubhandle](https://github.com/stephenkati)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/stephen-katuli/)
+
+👤 **Author2**
+ *[AHMAD SAEED]*
+
+- GitHub: [@ehmaddd](https://github.com/ehmaddd)
+- LinkedIn: [@ehmaddd](https://www.linkedin.com/in/ehmaddd/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
